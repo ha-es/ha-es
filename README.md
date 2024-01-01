@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2317B028&title_bg=%234D544F&icon=&icon_color=%2317B028&title=total&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaes&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)                  
 
 <h2 align="center">welcome to Eunseo's Github 🚀</h2>
 <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
