@@ -24,7 +24,8 @@
 <h3 align="center">📍 Contact 📍</h3>
 <div align="center">
  <a href="https://rlory.tistory.com">
-    <img src="https://img.shields.io/badge/tistroy-000000?style=flat-square&logo=tistroy&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white"/></a>
+ 
  <a href="mailto:rmatj420@gmail.com">
   <img src="https://img.shields.io/badge/rmatj420@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
