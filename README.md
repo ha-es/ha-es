@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=flat-square&logo=koltin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=flat-square&logo=<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin</title><path d="M24 24H0V0h24L12 12Z"/></svg>&logoColor=white"/>
 
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Kotlin</title><path d="M24 24H0V0h24L12 12Z"/></svg>
 
