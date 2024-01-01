@@ -6,7 +6,7 @@
 
 
 <!--내용-->
-<h3 align="center">✨ Tech Stack ✨</h3>
+<h3 align="center">💻 Tech Stack 💻</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>
@@ -16,4 +16,9 @@
 
 <br>
  
+<h3 align="center">💚 Contact me 💚</h3>
+<div align="center">
+ <img src="https://img.shields.io/badge/rmatj420@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
+</div>
 
