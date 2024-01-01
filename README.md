@@ -21,8 +21,10 @@
 
 <br>
  
-<h3 align="center">💚 Contact me 💚</h3>
+<h3 align="center">📍 Contact 📍</h3>
 <div align="center">
+ < a href="https://rlory.tistory.com">
+    <img src="https://img.shields.io/badge/tstroy-FF6A00?style=flat-square&logo=tstroy&logoColor=white"/></a>
  <a href="mailto:rmatj420@gmail.com">
   <img src="https://img.shields.io/badge/rmatj420@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
