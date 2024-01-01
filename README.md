@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+I'm+eunseo)](https://git.io/typing-svg)
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+- Android Studio
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
 
